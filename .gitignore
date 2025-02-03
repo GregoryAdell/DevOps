@@ -1,0 +1,4 @@
+flask-app/app.py
+flask-app/Dockerfile
+flask-app/requirements.txt
+flask-app/templates/index.html
