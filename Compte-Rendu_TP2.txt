@@ -1,4 +1,5 @@
 2-1 What are testcontainers?
+Pour tester que tout marche bien comme la connection avec la bdd ou que ça build.
 
 --------------------------------------------------------------
 
